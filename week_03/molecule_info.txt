@@ -1,0 +1,3 @@
+Molecule: humulone
+Image URL: https://github.com/jojorichard/ppchem/blob/main/houblon.png
+Description: L'humulone est une substance qui provient de la dégradation de la lupuline, le principe actif du houblon.
